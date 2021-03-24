@@ -1,0 +1,67 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container{
+  width: 850px;
+  margin: auto;
+  margin-top: 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 60px 70px;
+  border-radius: 20px;
+}
+
+header{
+  text-align: center;
+  color: rgb(8,220,4);
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+  width: 200px;
+  margin: auto;
+}
+
+.azioni{
+  background-color: rgb(8,220,4);
+  text-align: center;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.monopattino{
+  margin: 20px 0;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.nome-monopattino{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.percorso {
+  padding-top: 25px;
+}
+
+.bar1{
+  background-color: orange;
+  border-radius: 5px;
+  width: 200px;
+  color: orange;
+}
+
+.bar2{
+  background-color: green;
+  border-radius: 5px;
+  width: 350px;
+  color: green;
+}
+
+.bar3{
+  background-color: red;
+  border-radius: 5px;
+  width: 100px;
+  color: red;
+}
